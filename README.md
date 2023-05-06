@@ -8,4 +8,6 @@ This script will create an file called open_ports.txt in your current
 working directory and list all the open ports in there.
 
 to launch:
-python port_scan.py
+python port_scan.py  
+  
+Have fun
